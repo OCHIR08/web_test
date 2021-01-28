@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UntitledTestCase" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-28T20:18:41" hostname="DESKTOP-6DJN50P" time="4.528">
+  <properties/>
+  <testcase name="testUntitledTestCase" classname="UntitledTestCase" time="4.528"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[1611865117327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ochir\\AppData\\Local\\Temp\\rust_mozprofile7FTzo6"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611865120528	Marionette	INFO	Listening on port 49416
+1611865121038	Marionette	WARN	TLS certificate errors will be ignored for this session
+янв 28, 2021 11:18:41 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+]]></system-err>
+</testsuite>
