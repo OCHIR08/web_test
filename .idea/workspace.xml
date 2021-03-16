@@ -2,34 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcc744a7-8b04-4702-b048-a7144cf85078" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MessageUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SampleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/UntitledTestCase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/UntitledTestCase.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-UntitledTestCase.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/UntitledTestCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/SampleTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/SampleTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-SampleTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-SampleTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,13 +59,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Ochir\Documents\GitHub\web_test\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/Ochir/Documents/GitHub/web_test/src/test/java/testng.xml">
+  <component name="RunManager" selected="Gradle.SampleTest">
     <configuration name="SampleTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -154,8 +139,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/Ochir/Documents/GitHub/web_test/src/test/java/testng.xml" />
         <item itemvalue="Gradle.SampleTest" />
+        <item itemvalue="TestNG.C:/Users/Ochir/Documents/GitHub/web_test/src/test/java/testng.xml" />
         <item itemvalue="Gradle.UntitledTestCase.testUntitledTestCase" />
         <item itemvalue="Gradle.UntitledTestCase" />
       </list>
@@ -175,22 +160,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1815" height="470" key="GridCell.Tab.0.bottom" timestamp="1615932438738">
+    <state x="771" y="281" key="FileChooserDialogImpl" timestamp="1615933645843">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="470" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1615932438738" />
-    <state width="1815" height="470" key="GridCell.Tab.0.center" timestamp="1615932438737">
+    <state x="771" y="281" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1615933645843" />
+    <state width="1815" height="470" key="GridCell.Tab.0.bottom" timestamp="1615933658820">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="470" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1615932438737" />
-    <state width="1815" height="470" key="GridCell.Tab.0.left" timestamp="1615932438737">
+    <state width="1815" height="470" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1615933658820" />
+    <state width="1815" height="470" key="GridCell.Tab.0.center" timestamp="1615933658820">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="470" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1615932438737" />
-    <state width="1815" height="470" key="GridCell.Tab.0.right" timestamp="1615932438738">
+    <state width="1815" height="470" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1615933658820" />
+    <state width="1815" height="470" key="GridCell.Tab.0.left" timestamp="1615933658820">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="470" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1615932438738" />
+    <state width="1815" height="470" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1615933658820" />
+    <state width="1815" height="470" key="GridCell.Tab.0.right" timestamp="1615933658820">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="470" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1615933658820" />
     <state width="1815" height="364" key="GridCell.Tab.1.bottom" timestamp="1611863949217">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
@@ -207,5 +196,9 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state width="1815" height="364" key="GridCell.Tab.1.right/62.0.1858.1080@62.0.1858.1080" timestamp="1611863949217" />
+    <state x="492" y="182" key="SettingsEditor" timestamp="1615933654123">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="492" y="182" key="SettingsEditor/62.0.1858.1080@62.0.1858.1080" timestamp="1615933654123" />
   </component>
 </project>
